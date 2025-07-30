@@ -84,10 +84,5 @@ PRs and forks are welcome!
 # Push to the branch (git push origin feature/AmazingFeature)
 # Open a Pull Request
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rileyridge&show_icons=true&theme=radical" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rileyridge&layout=compact&theme=radical" height="150"/> </p>
-
-🏷 GitHub Topics (For SEO)
-solana, copy-trading, solana-bot, crypto-bot, rust-lang, anchor-framework, defi-trading, web3, telegram-bot, wallet-sniper, real-time-trading, high-frequency-trading, solana-sdk, automated-trading, blockchain-tools, solana-program-library, crypto-sniper, defi-tools
 
 💡 Disclaimer: This bot is for educational and research purposes. Use responsibly and at your own risk.
